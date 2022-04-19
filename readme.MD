@@ -8,7 +8,7 @@
 - [✔️] 2 > [If Statement](Days/2/)
 - [✔️] 3- [Loops(for-while-do-while)](Days/3)
 - [✔️] 4- [Arrays](Days/4)
-- [❌] 5- [Strings](Days/5)
+- [✔️] 5- [Strings](Days/5)
 - [❌] 6- [Demo Projects](Days/6)
 - [❌] 7- [Method](Days/7)
 - [❌] 8- [Classes](Days/8)
