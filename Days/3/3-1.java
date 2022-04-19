@@ -1,3 +1,10 @@
-public class 3-1 {
-    
+public class Main {
+
+    public static void main(String[] args) {
+        for (int i=0; i<10; i++){
+            System.out.println("Number is: "+i);
+        }
+        System.out.println("Loop ended!");
+
+    }
 }
