@@ -13,8 +13,9 @@ public class Main {
         for (String word: message.split(" ")){
             System.out.println(word);
         }
-        System.out.println(message.toLowerCase(Locale.ROOT));
         System.out.println(message.toUpperCase(Locale.ROOT));
+        System.out.println(message.toLowerCase(Locale.ROOT));
 
+        
     }
 }
