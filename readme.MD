@@ -12,7 +12,7 @@
 - [✔️] 6- [Demo Projects](Days/6)
 - [✔️] 7- [Method](Days/7)
 - [✔️] 8- [Classes](Days/8)
-- [❌] 9- [Encapsulation](Days/9)
+- [✔️] 9- [Encapsulation](Days/9)
 - [❌] 10- [Constructors](Days/10)
 - [❌] 11- [Inheritance](Days/11)
 - [❌] 12- [Polymorphism](Days/12)
