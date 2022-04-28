@@ -15,7 +15,7 @@
 - [✔️] 9- [Encapsulation](Days/9)
 - [✔️]] 10- [Constructors](Days/10)
 - [✔️] 11- [Inheritance](Days/11)
-- [❌] 12- [Polymorphism](Days/12)
+- [✔️] 12- [Polymorphism](Days/12)
 - [❌] 13- [Abstract Class](Days/13)
 - [❌] 14- [Interface](Days/14)
 - [❌] 15- [Composition, Inner Class, Static](Days/15)
