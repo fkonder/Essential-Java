@@ -1,6 +1,6 @@
 # Learning Essential Java
 
-**This repository is used to document my journey on getting a better foundational knowledge of Java. I will be starting this journey on 17 April January 2022 the main idea is learn Java and having better Programing knowledge in 30 days. Hope that I will do this stuff and end my journey until 10 May 2022.** 🐱‍🏍
+**This repository is used to document my journey on getting a better foundational knowledge of Java. I will be starting this journey on 17 April January 2022 the main idea is learn Java and having better Programing knowledge in 30 days. Hope that I will do this stuff and end my journey until 17 May 2022.** 🐱
 
 ## Progress
 
@@ -16,7 +16,7 @@
 - [✔️]] 10- [Constructors](Days/10)
 - [✔️] 11- [Inheritance](Days/11)
 - [✔️] 12- [Polymorphism](Days/12)
-- [❌] 13- [Abstract Class](Days/13)
+- [✔️] 13- [Abstract Class](Days/13)
 - [❌] 14- [Interface](Days/14)
 - [❌] 15- [Composition, Inner Class, Static](Days/15)
 - [❌] 16- [Packages](Days/16)
