@@ -2,7 +2,9 @@
 
 **This repository is used to document my journey on getting a better foundational knowledge of Java. I will be starting this journey on 17 April January 2022 the main idea is learn Java and having better Programing knowledge in 30 days. Hope that I will do this stuff and end my journey until 17 May 2022.** 🐱
 
-## Progress
+
+
+## Progress ✔️ 
 
 - [✔️] 1 > [Variables and Data Types](Days/1)
 - [✔️] 2 > [If Statement](Days/2/)
