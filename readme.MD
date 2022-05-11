@@ -20,7 +20,7 @@
 - [✔️] 12- [Polymorphism](Days/12)
 - [✔️] 13- [Abstract Class](Days/13)
 - [✔️] 14- [Interface](Days/14)
-- [❌] 15- [Composition, Inner Class, Static](Days/15)
+- [✔️] 15- [Composition, Inner Class, Static](Days/15)
 - [❌] 16- [Packages](Days/16)
 - [❌] 17- [Collections](Days/17)
 - [❌] 18- [Expection Handling](Days/18)
