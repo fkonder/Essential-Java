@@ -4,7 +4,7 @@
 
 
 
-## Progress ✔️ 
+## Progress Bar  
 
 - [✔️] 1 > [Variables and Data Types](Days/1)
 - [✔️] 2 > [If Statement](Days/2/)
