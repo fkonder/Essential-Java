@@ -23,7 +23,7 @@
 - [✔️] 15- [Composition, Inner Class, Static](Days/15)
 - [✔️] 16- [Packages](Days/16)
 - [✔️] 17- [Collections](Days/17)
-- [❌] 18- [Expection Handling](Days/18)
+- [✔️] 18- [Expection Handling](Days/18)
 - [❌] 19- [Input/Output](Days/19)
 - [❌] 20- [Generics](Days/20)
 - [❌] 21- [Threading](Days/21)
