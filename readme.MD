@@ -2,7 +2,7 @@
 
 **This repository is used to document my journey on getting a better foundational knowledge of Java. I will be starting this journey on 17 April January 2022 the main idea is learn Java and having better Programing knowledge in 30 days. Hope that I will do this stuff and end my journey until 17 May 2022.** 🐱
 
-
+#  *I completed this journey on 15-05-2022 this was awesome start to me, lets go and learn more stuff.*
 
 ## Progress Bar  
 
@@ -27,5 +27,3 @@
 - [✔️] 19- [File Input/Output](Days/19)
 - [✔️] 20- [Generics](Days/20)
 - [✔️] 21- [Threading](Days/21)
-- [❌] 22- [JDBC Data Base](Days/22)
-- [❌] 23- [Swing](Days/23)
