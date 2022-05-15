@@ -26,6 +26,6 @@
 - [✔️] 18- [Expection Handling](Days/18)
 - [✔️] 19- [File Input/Output](Days/19)
 - [✔️] 20- [Generics](Days/20)
-- [❌] 21- [Threading](Days/21)
+- [✔️] 21- [Threading](Days/21)
 - [❌] 22- [JDBC Data Base](Days/22)
 - [❌] 23- [Swing](Days/23)
